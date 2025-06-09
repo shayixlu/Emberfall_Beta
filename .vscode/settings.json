@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Emberfall_Beta.sln"
+    "dotnet.defaultSolution": "Emberfall_Beta.sln",
+    "FSharp.suggestGitignore": false
 }
